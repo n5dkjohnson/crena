@@ -1,0 +1,68 @@
+{
+  "title": "Crena AM",
+  "id": "crena",
+  "system": "dnd5e",
+  "background": "assets/maps/srcrenalg.avif",
+  "joinTheme": "default",
+  "nextSession": "2025-04-18T02:00:00.000Z",
+  "description": "<p>Welcome to the World of Crena!</p>",
+  "coreVersion": "13.348",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.348"
+  },
+  "systemVersion": "5.1.9",
+  "lastPlayed": "Thu Oct 09 2025 07:51:50 GMT-0500 (Central Daylight Time)",
+  "packs": [
+    {
+      "label": "Backgrounds",
+      "type": "Item",
+      "name": "backgrounds",
+      "path": "packs/backgrounds",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Spells",
+      "type": "Item",
+      "name": "spells",
+      "path": "packs/spells",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Species",
+      "type": "Item",
+      "name": "species",
+      "path": "packs/species",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Items",
+      "type": "Item",
+      "name": "items",
+      "path": "packs/items",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "playtime": 925497,
+  "flags": {}
+}
