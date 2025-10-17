@@ -6,13 +6,13 @@
   "joinTheme": "default",
   "nextSession": "2025-04-18T02:00:00.000Z",
   "description": "<p>Welcome to the World of Crena!</p>",
-  "coreVersion": "13.348",
+  "coreVersion": "13.350",
   "compatibility": {
     "minimum": "13",
-    "verified": "13.348"
+    "verified": "13.350"
   },
   "systemVersion": "5.1.9",
-  "lastPlayed": "Thu Oct 09 2025 07:51:50 GMT-0500 (Central Daylight Time)",
+  "lastPlayed": "Thu Oct 16 2025 18:39:24 GMT-0500 (Central Daylight Time)",
   "packs": [
     {
       "label": "Backgrounds",
