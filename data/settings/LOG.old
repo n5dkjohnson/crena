@@ -1,5 +1,25 @@
-2026/01/12-12:54:29.287594 761868fbc6c0 Recovering log #168
-2026/01/12-12:54:29.287680 761868fbc6c0 Level-0 table #170: started
-2026/01/12-12:54:29.309482 761868fbc6c0 Level-0 table #170: 2106 bytes OK
-2026/01/12-12:54:29.360412 761868fbc6c0 Delete type=3 #166
-2026/01/12-12:54:29.360511 761868fbc6c0 Delete type=0 #168
+2026/01/23-08:48:56.809914 7b63051f86c0 Recovering log #174
+2026/01/23-08:48:56.809981 7b63051f86c0 Level-0 table #176: started
+2026/01/23-08:48:56.829018 7b63051f86c0 Level-0 table #176: 2106 bytes OK
+2026/01/23-08:48:56.874166 7b63051f86c0 Delete type=3 #172
+2026/01/23-08:48:56.874214 7b63051f86c0 Delete type=0 #174
+2026/01/23-08:48:56.874432 7b62d3bff6c0 Compacting 4@0 + 1@1 files
+2026/01/23-08:48:56.907734 7b62d3bff6c0 Generated table #178@0: 149 keys, 21056 bytes
+2026/01/23-08:48:56.907803 7b62d3bff6c0 Compacted 4@0 + 1@1 files => 21056 bytes
+2026/01/23-08:48:56.931303 7b62d3bff6c0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/23-08:48:56.931454 7b62d3bff6c0 Delete type=2 #173
+2026/01/23-08:48:56.931566 7b62d3bff6c0 Delete type=2 #176
+2026/01/23-08:48:56.931678 7b62d3bff6c0 Delete type=2 #165
+2026/01/23-08:48:56.931785 7b62d3bff6c0 Delete type=2 #170
+2026/01/23-08:48:56.931852 7b62d3bff6c0 Delete type=2 #167
+2026/01/23-13:44:26.537572 7b62d3bff6c0 Level-0 table #180: started
+2026/01/23-13:44:26.547910 7b62d3bff6c0 Level-0 table #180: 2108 bytes OK
+2026/01/23-13:44:26.558854 7b62d3bff6c0 Delete type=0 #177
+2026/01/23-13:44:26.559000 7b62d3bff6c0 Manual compaction at level-0 from '!settings!09EyFOeMdXGWKVCN' @ 72057594037927935 : 1 .. '!settings!zTsR5ILgYT3SEEfS' @ 0 : 0; will stop at '!settings!caNbtljsBH9OEfPl' @ 479 : 1
+2026/01/23-13:44:26.559010 7b62d3bff6c0 Compacting 1@0 + 1@1 files
+2026/01/23-13:44:26.572105 7b62d3bff6c0 Generated table #181@0: 149 keys, 21056 bytes
+2026/01/23-13:44:26.572128 7b62d3bff6c0 Compacted 1@0 + 1@1 files => 21056 bytes
+2026/01/23-13:44:26.583539 7b62d3bff6c0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/23-13:44:26.583678 7b62d3bff6c0 Delete type=2 #178
+2026/01/23-13:44:26.583771 7b62d3bff6c0 Delete type=2 #180
+2026/01/23-13:44:26.583883 7b62d3bff6c0 Manual compaction at level-0 from '!settings!caNbtljsBH9OEfPl' @ 479 : 1 .. '!settings!zTsR5ILgYT3SEEfS' @ 0 : 0; will stop at (end)
